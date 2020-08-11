@@ -1,6 +1,8 @@
 ### Hi there 👋
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dlwnsgus777)
 
 ![dlwnsgus777's github stats](https://github-readme-stats.vercel.app/api?username=dlwnsgus777&show_icons=true&theme=cobalt)
+
 <!--
 **dlwnsgus777/dlwnsgus777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
