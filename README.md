@@ -1,4 +1,4 @@
-### Hi there 👋
+### 개발을 좋아하는 개발자 입니다! 🌱
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dlwnsgus777)
 
 ![dlwnsgus777's github stats](https://github-readme-stats.vercel.app/api?username=dlwnsgus777&show_icons=true&theme=cobalt)
